@@ -143,7 +143,8 @@ The basic idea, outlined in [this blog post](http://biinsight.com/import-power-b
     Intelligence-&gt; Import from Server-&gt; and then click OK
 
 18.  The below screen will appear, click OK
-    <img src="./media/image7.png" width="336" height="293" />
+
+ <img src="./media/image7.png" width="336" height="293" />
 
 19.  You will be prompted to select the database. Choose the one we had
     just created
